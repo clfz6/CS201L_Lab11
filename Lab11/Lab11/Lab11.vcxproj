@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\StarterCode\Employee.cpp" />
-    <ClCompile Include="..\..\..\StarterCode\Lab11.cpp" />
+    <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="lab11.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\StarterCode\Employee.h" />
+    <ClInclude Include="Employee.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
